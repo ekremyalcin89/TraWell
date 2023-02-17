@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  foursquare
 //
-//  Created by Tayyip on 16.02.2023.
+//  Created by Ekrem on 16.02.2023.
 //
 
 import UIKit
