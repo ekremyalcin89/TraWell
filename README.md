@@ -10,3 +10,4 @@ made with,
 * UIKit
 * Parse Backend
 * Back4App Server
+* Tab Bar Items
