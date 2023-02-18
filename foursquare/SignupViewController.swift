@@ -8,7 +8,7 @@
 import UIKit
 import Parse
 
-class ViewController: UIViewController {
+class SignupViewController: UIViewController {
 
     @IBOutlet weak var userNameText: UITextField!
     
@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+      
         
     }
 

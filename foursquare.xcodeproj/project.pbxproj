@@ -10,7 +10,7 @@
 		9A5FA37C025A22272F5506B3 /* Pods_foursquare.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBDA588F8CF0B334E070929F /* Pods_foursquare.framework */; };
 		E1415F14299E5E2100EB9683 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1415F13299E5E2100EB9683 /* AppDelegate.swift */; };
 		E1415F16299E5E2100EB9683 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1415F15299E5E2100EB9683 /* SceneDelegate.swift */; };
-		E1415F18299E5E2100EB9683 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1415F17299E5E2100EB9683 /* ViewController.swift */; };
+		E1415F18299E5E2100EB9683 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1415F17299E5E2100EB9683 /* SignupViewController.swift */; };
 		E1415F1B299E5E2100EB9683 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1415F19299E5E2100EB9683 /* Main.storyboard */; };
 		E1415F1D299E5E2300EB9683 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1415F1C299E5E2300EB9683 /* Assets.xcassets */; };
 		E1415F20299E5E2300EB9683 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1415F1E299E5E2300EB9683 /* LaunchScreen.storyboard */; };
@@ -23,7 +23,7 @@
 		E1415F10299E5E2100EB9683 /* foursquare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = foursquare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1415F13299E5E2100EB9683 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1415F15299E5E2100EB9683 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E1415F17299E5E2100EB9683 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E1415F17299E5E2100EB9683 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		E1415F1A299E5E2100EB9683 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E1415F1C299E5E2300EB9683 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1415F1F299E5E2300EB9683 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 			children = (
 				E1415F13299E5E2100EB9683 /* AppDelegate.swift */,
 				E1415F15299E5E2100EB9683 /* SceneDelegate.swift */,
-				E1415F17299E5E2100EB9683 /* ViewController.swift */,
+				E1415F17299E5E2100EB9683 /* SignupViewController.swift */,
 				E1B357E8299FE5D400753154 /* PlacesViewController.swift */,
 				E1415F19299E5E2100EB9683 /* Main.storyboard */,
 				E1415F1C299E5E2300EB9683 /* Assets.xcassets */,
@@ -210,7 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1B357E9299FE5D500753154 /* PlacesViewController.swift in Sources */,
-				E1415F18299E5E2100EB9683 /* ViewController.swift in Sources */,
+				E1415F18299E5E2100EB9683 /* SignupViewController.swift in Sources */,
 				E1415F14299E5E2100EB9683 /* AppDelegate.swift in Sources */,
 				E1415F16299E5E2100EB9683 /* SceneDelegate.swift in Sources */,
 			);
