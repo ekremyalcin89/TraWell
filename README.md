@@ -12,3 +12,4 @@ made with,
 * Back4App Server
 * Tab Bar Items
 * Map Kit
+* Gesture Recognisers
