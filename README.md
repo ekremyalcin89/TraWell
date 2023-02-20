@@ -14,3 +14,4 @@ made with,
 * Map Kit
 * Gesture Recognisers
 * Image Picker Controller
+* Singleton Class
