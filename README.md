@@ -13,3 +13,4 @@ made with,
 * Tab Bar Items
 * Map Kit
 * Gesture Recognisers
+* Image Picker Controller
