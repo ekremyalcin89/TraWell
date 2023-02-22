@@ -12,6 +12,7 @@ made with,
 * Back4App Server
 * Tab Bar Items
 * Map Kit
+* CL Location Manager
 * Gesture Recognisers
 * Image Picker Controller
 * Singleton Class
